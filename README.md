@@ -1,2 +1,2 @@
 # DisBot
-[Discord.js](https://github.com/yacoreq/disbot/discordjs)
+[Discord.js](https://github.com/yacoreq/disbot/blob/discordjs/README.md)
