@@ -1,10 +1,12 @@
 # Discord.js
 You need to install [Git](https://git-scm.com)!
-```
-//clone files into bot folder
-git clone --branch discordjs git@github.com:yacoreq/disbot.git
 
-//install node modules
+Clone files into bot folder.
+```
+git clone --branch discordjs git@github.com:yacoreq/disbot.git
+```
+Install node modules.
+```
 npm i
 ```
 Edit `config.json`
