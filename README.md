@@ -1,2 +1,2 @@
-# disbot
+# DisBot
 Discord bot template
