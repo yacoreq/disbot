@@ -3,7 +3,7 @@ You need to install [Git](https://git-scm.com)!
 
 Clone files into bot folder.
 ```
-git clone --branch discordjs git@github.com:yacoreq/disbot.git
+git clone --branch discordjs https://github.com/yacoreq/disbot.git
 ```
 Install node modules.
 ```
