@@ -5,6 +5,10 @@ Clone files into bot folder.
 ```
 git clone --branch discordjs https://github.com/yacoreq/disbot.git
 ```
+Move to bot diectory
+```
+cd disbot
+```
 Install node modules.
 ```
 npm i
